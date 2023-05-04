@@ -12,6 +12,41 @@
         },
         "total_view": 488,
         "title": "Studio portrait of a cook man with fresh vegetables on a table.",
+        "recipes": [
+            {
+                "id": 1,
+                "title": "Pesto Pasta",
+                "ingredients": [
+                    "Rice flour",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Pesto Pasta",
+                "ingredients": [
+                    "Rice flour",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Pesto Pasta",
+                "ingredients": [
+                    "Rice flour",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            }
+        ],
         "author": {
             "Likes": "45687",
             "Recipes": "40",
@@ -22,9 +57,7 @@
         "thumbnail_url": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9946.jpg?w=740&t=st=1683088269~exp=1683088869~hmac=db03c8e81b06d9a4aed35770e3bef50e01745071cdf78f027d5652485d93c214",
         "image_url": "https://img.freepik.com/free-photo/studio-portrait-positive-cook-male-holds-eggplant_613910-9946.jpg?w=740&t=st=1683088269~exp=1683088869~hmac=db03c8e81b06d9a4aed35770e3bef50e01745071cdf78f027d5652485d93c214",
         "details": "Wednesday, August 24, 2022 | A pumpkin is a winter squash vegetable that looks like a round, big, little ribbed skin, and is orange from the inside. The outer shell is thick and contains seeds and pulp.The capsicum is also a type of chili vegetable, belonging to the family Solanaceae. It is a flowering plant, and it is also added to various cuisines to make spice. It has some colors, like red, green, etc.Cauliflower is a white vegetable that comes from the species Brassica Oleracea from the Brassicaceae family. This vegetable has a tendency to grow in all seasons, especially in the winter seasons."
-        
     },
-    
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
         "others_info": {
@@ -38,6 +71,19 @@
         },
         "total_view": 488,
         "title": "Mid shot chef holding plate with pasta and making ok sign.",
+        "recipes": [
+            {
+                "id": 1,
+                "title": "Pesto Pasta",
+                "ingredients": [
+                    "Rice flour",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            }
+        ],
         "author": {
             "Likes": "14687",
             "Recipes": "70",
@@ -48,7 +94,6 @@
         "thumbnail_url": "https://img.freepik.com/free-photo/mid-shot-chef-showing-blank-tablet_23-2148794108.jpg?t=st=1683088471~exp=1683089071~hmac=77f3e05021491d3ec408f611e58853230f8c92a1fdc1097a7857f09214899c42",
         "image_url": "https://img.freepik.com/free-photo/mid-shot-chef-showing-blank-tablet_23-2148794108.jpg?t=st=1683088471~exp=1683089071~hmac=77f3e05021491d3ec408f611e58853230f8c92a1fdc1097a7857f09214899c42",
         "details": "(US: /ˈpɑːstə/, UK: /ˈpæstə/; Italian pronunciation: [ˈpasta]) is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking. Rice flour, or legumes such as beans or lentils, are sometimes used in place of wheat flour to yield a different taste and texture, or as a gluten-free alternative. Pasta is a staple food of Italian cuisine.[1][2]"
-        
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71011",
@@ -73,7 +118,6 @@
         "thumbnail_url": "https://img.freepik.com/premium-photo/excited-man-chef-cook-wearing-uniform-showing-fresh-green-salad-plate-isolated-white-wall-thumbs-up_171337-54260.jpg",
         "image_url": "https://img.freepik.com/premium-photo/excited-man-chef-cook-wearing-uniform-showing-fresh-green-salad-plate-isolated-white-wall-thumbs-up_171337-54260.jpg",
         "details": "So we ve decided to take the guess work out for you! We ve put together a list of our top green salad recipes that make the perfect side salad for just about anything. While the vibe of some of these is stronger than others, most of them will work no matter whether you re pairing"
-        
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
@@ -98,7 +142,6 @@
         "thumbnail_url": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=740&t=st=1683090226~exp=1683090826~hmac=e5553b12e69d4443ed0bc9d6fb42f0ce98144d9ae2407d4b3d543f89bca5864c",
         "image_url": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?w=740&t=st=1683090226~exp=1683090826~hmac=e5553b12e69d4443ed0bc9d6fb42f0ce98144d9ae2407d4b3d543f89bca5864c",
         "details": "chef in a black uniform holds a round pan and throws up red and green whole chili peppers in a burning fire, cooking spices, low key black uniform holds a round pan and throws up red and uniform holds."
-        
     },
     {
         "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
@@ -123,7 +166,6 @@
         "thumbnail_url": "https://img.freepik.com/free-photo/main-course-is-incredible_329181-674.jpg?w=740&t=st=1683090860~exp=1683091460~hmac=11bf79b4282374718a3995157136ef7ed9a0c0c4a2b461a3a246967c6b7e450e",
         "image_url": "https://img.freepik.com/free-photo/main-course-is-incredible_329181-674.jpg?w=740&t=st=1683090860~exp=1683091460~hmac=11bf79b4282374718a3995157136ef7ed9a0c0c4a2b461a3a246967c6b7e450e",
         "details": "A main course is the featured or primary dish in a meal consisting of several courses. It usually follows the entrée course. In the United States and parts of Canada, it may in fact be called .  sirloin steak dinner. The sirloin steak is the main course here. The main dish is usually the heaviest, heartiest, and most complex or substantive dish on a menu. The main ingredient is usually meat or fish; in vegetarian meals, the main course sometimes attempts to mimic a meat course. It is most often preceded by an appetizer, soup, and/or salad, and followed by a dessert. For those reasons the main course is sometimes referred to as the meat course. In formal dining, a well-planned main"
-        
     },
     {
         "_id": "f06f8cc035b04bd1158e4198281915a3",
@@ -148,6 +190,5 @@
         "thumbnail_url": "https://img.freepik.com/premium-photo/chef-sprinkling-spices-dish_107420-21749.jpg?w=740",
         "image_url": "https://img.freepik.com/premium-photo/chef-sprinkling-spices-dish_107420-21749.jpg?w=740",
         "details": "Baptism of fire kcd, Gambar cawan pentri petri dish, Bisakah pasta gigi untuk ... Cle elum lake fishing, 9 11 photos falling man, Queen os spices cardamo, of fire kcd, Gambar cawan pentri petri dish, Bisakah pasta gigi untuk ... Cle elum lake fishing, 9 11 photos falling man, Queen os spices cardamom,"
-        
     }
 ]
