@@ -15,39 +15,37 @@
         "recipes": [
             {
                 "id": 1,
-                "title": "Pesto Pasta",
+                "title": "Authentic Tacos",
                 "ingredients": [
-                    "Rice flour",
-                    "Granulars",
-                    "Pine nuts",
-                    "Garlic",
-                    "Semolina"
+                    "Roast",
+                    "peel",
+                    "de-seed the tomatoes",
+                    "drain the peppers",
+                    "Boil"
                 ]
             },
             {
                 "id": 2,
-                "title": "Pesto Pasta",
+                "title": "Chole Aloo Tikki",
                 "ingredients": [
-                    "Rice flour",
-                    "Granulars",
-                    "Pine nuts",
-                    "Garlic",
-                    "Semolina"
+                    "onion, chopped",
+                    "chopped",
+                    "grated",
+                    "teaspoon water",
+                    "tomato,chopped"
                 ]
             },
             {
                 "id": 3,
-                "title": "Pesto Pasta",
+                "title": "Ta'ameya (Egyptian)",
                 "ingredients": [
-                    "Rice flour",
-                    "Granulars",
+                    "tablespoon cilantro leaves",
+                    "food processor",
                     "Pine nuts",
                     "Garlic",
                     "Semolina"
                 ]
             }
-            
-            
         ],
         "author": {
             "Likes": "45687",
@@ -76,10 +74,32 @@
         "recipes": [
             {
                 "id": 1,
-                "title": "Pesto Pasta",
+                "title": "Authentic Tacos",
                 "ingredients": [
-                    "Rice flour",
-                    "Granulars",
+                    "Roast",
+                    "peel",
+                    "de-seed the tomatoes",
+                    "drain the peppers",
+                    "Boil"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Chole Aloo Tikki",
+                "ingredients": [
+                    "onion, chopped",
+                    "chopped",
+                    "grated",
+                    "teaspoon water",
+                    "tomato,chopped"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Ta'ameya (Egyptian)",
+                "ingredients": [
+                    "tablespoon cilantro leaves",
+                    "food processor",
                     "Pine nuts",
                     "Garlic",
                     "Semolina"
@@ -110,6 +130,41 @@
         },
         "total_view": 488,
         "title": "Excited man chef cook wearing uniform showing fresh green salad on a plate isolated over white wall, thumbs up",
+        "recipes": [
+            {
+                "id": 1,
+                "title": "Authentic Tacos",
+                "ingredients": [
+                    "Roast",
+                    "peel",
+                    "de-seed the tomatoes",
+                    "drain the peppers",
+                    "Boil"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Chole Aloo Tikki",
+                "ingredients": [
+                    "onion, chopped",
+                    "chopped",
+                    "grated",
+                    "teaspoon water",
+                    "tomato,chopped"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Ta'ameya (Egyptian)",
+                "ingredients": [
+                    "tablespoon cilantro leaves",
+                    "food processor",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            }
+        ],
         "author": {
             "Likes": "50687",
             "Recipes": "50",
@@ -134,6 +189,41 @@
         },
         "total_view": 733,
         "title": "Chef holding pan with fire inside",
+        "recipes": [
+            {
+                "id": 1,
+                "title": "Authentic Tacos",
+                "ingredients": [
+                    "Roast",
+                    "peel",
+                    "de-seed the tomatoes",
+                    "drain the peppers",
+                    "Boil"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Chole Aloo Tikki",
+                "ingredients": [
+                    "onion, chopped",
+                    "chopped",
+                    "grated",
+                    "teaspoon water",
+                    "tomato,chopped"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Ta'ameya (Egyptian)",
+                "ingredients": [
+                    "tablespoon cilantro leaves",
+                    "food processor",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            }
+        ],
         "author": {
             "Likes": "54216",
             "Recipes": "60",
@@ -158,6 +248,41 @@
         },
         "total_view": 734,
         "title": "Main course is incredible",
+        "recipes": [
+            {
+                "id": 1,
+                "title": "Authentic Tacos",
+                "ingredients": [
+                    "Roast",
+                    "peel",
+                    "de-seed the tomatoes",
+                    "drain the peppers",
+                    "Boil"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Chole Aloo Tikki",
+                "ingredients": [
+                    "onion, chopped",
+                    "chopped",
+                    "grated",
+                    "teaspoon water",
+                    "tomato,chopped"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Ta'ameya (Egyptian)",
+                "ingredients": [
+                    "tablespoon cilantro leaves",
+                    "food processor",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            }
+        ],
         "author": {
             "Likes": "78945",
             "Recipes": "55",
@@ -182,6 +307,41 @@
         },
         "total_view": 127,
         "title": "Chef sprinkling spices on dish",
+        "recipes": [
+            {
+                "id": 1,
+                "title": "Authentic Tacos ",
+                "ingredients": [
+                    "Roast",
+                    "peel",
+                    "de-seed the tomatoes",
+                    "drain the peppers",
+                    "Boil"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Chole Aloo Tikki",
+                "ingredients": [
+                    "onion, chopped",
+                    "chopped",
+                    "grated",
+                    "teaspoon water",
+                    "tomato,chopped"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Ta'ameya (Egyptian)",
+                "ingredients": [
+                    "tablespoon cilantro leaves",
+                    "food processor",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
+            }
+        ],
         "author": {
             "Likes": "45745",
             "Recipes": "60",
