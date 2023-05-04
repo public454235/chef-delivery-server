@@ -34,6 +34,17 @@
                     "Garlic",
                     "Semolina"
                 ]
+            },
+            {
+                "id": 3,
+                "title": "Pesto Pasta",
+                "ingredients": [
+                    "Rice flour",
+                    "Granulars",
+                    "Pine nuts",
+                    "Garlic",
+                    "Semolina"
+                ]
             }
             
             
